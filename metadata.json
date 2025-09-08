@@ -1,0 +1,5 @@
+{
+  "name": "Roommate Expense Splitter",
+  "description": "An application to track and split expenses equally among roommates. It supports adding expenses, viewing history with CSV export, and calculating balances with visual charts.",
+  "requestFramePermissions": []
+}
